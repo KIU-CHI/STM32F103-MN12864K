@@ -1,0 +1,5 @@
+user.c:116:6:decode_data	56	static
+user.c:106:6:init	8	static
+user.c:152:6:scan_start	16	static
+user.c:186:6:loop	8	static
+user.c:193:6:usb_rx_callback	8	static
